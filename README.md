@@ -35,3 +35,5 @@ I have served in a support role in projects, focusing on the following tasks:
 ## Projects
 ### Machine Learning Methods for Predicting Loan Repayment in Leasing Agreements
 
+Machine learning models were created for predicting the repayment of leasing installments using Python. As part of the project, data was prepared through data mining and data processing. This was followed by the implementation and training of machine learning models. In the next step, the models were tested on test sets. In order to improve the results, the decision was made to implement cross-validation and data alignment techniques.
+
