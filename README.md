@@ -4,7 +4,7 @@
 
 ## Education
 
-Master's degree in IT in business | University of Economics in Wrocław (_September 2023_)\
+Master's degree in IT in business | University of Economics in Wrocław (_September 2023_)
 Engineer's degree in Industrial IT | Wrocław University of Science and Technology (_January 2021_)
 
 ## Work Experience
