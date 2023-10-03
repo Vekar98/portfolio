@@ -1,4 +1,4 @@
-# Data Sciencist ∙ Data Analist ∙ IT Specialist
+# Data Sciencist
 
 #### Technical Skills: Python, SQL, MongoDB, Excel, R, React
 
