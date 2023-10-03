@@ -35,5 +35,13 @@ I have served in a support role in projects, focusing on the following tasks:
 ## Projects
 ### Machine Learning Methods for Predicting Loan Repayment in Leasing Agreements
 
+[To view project click here!](/Projects/Predicting%20Loan%20Repayment%20in%20Leasing%20Agreements.ipynb)
+
 Machine learning models were created for predicting the repayment of leasing installments using Python. As part of the project, data was prepared through data mining and data processing. This was followed by the implementation and training of machine learning models. In the next step, the models were tested on test sets. In order to improve the results, the decision was made to implement cross-validation and data alignment techniques.
 
+### PowerBI visualisation
+
+[To view final dashboard click here!](Projects/PowerBI%20Olechnowicz%20Project.pdf)\
+[To view step by step guide click here!](/Projects/PowerBI%20Olechnowicz%20Project%20-%20step%20by%20step.pdf)
+
+This project analyzes an online store's profits, frequently purchased products, and pricing from 2015 to 2018. Data is imported, transformed, and modeled in Power BI. DAX measures are created for currency conversion, tax calculation, and more. Visualizations, including maps, graphs, and cards, provide insights. The project culminates in an interactive dashboard on PowerBI.com, allowing users to explore key trends easily.
