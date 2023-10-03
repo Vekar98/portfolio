@@ -1,8 +1,8 @@
 # Data Sciencist
 
 ## Education
-- M.S., IT in business | University of Economics in Wrocław (_September 2023_)
-- B.S., Industrial IT | Wrocław University of Science and Technology (_January 2021_)
+- M.S., IT in business, University of Economics in Wrocław (_September 2023_)
+- B.S., Industrial IT, Wrocław University of Science and Technology (_January 2021_)
 
 ## Work Experience
 
