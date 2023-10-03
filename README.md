@@ -32,4 +32,6 @@ I have served in a support role in projects, focusing on the following tasks:
 - Preparing computer equipment for new employees, providing them with necessary tools for effective task execution.
 - Maintaining company employees' computer hardware.
 
-### Projects
+## Projects
+### Machine Learning Methods for Predicting Loan Repayment in Leasing Agreements
+
