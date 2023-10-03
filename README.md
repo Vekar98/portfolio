@@ -1,18 +1,35 @@
 # Data Sciencist
 
-### Education
-**University of Economics in Wrocław**
-Field of Study: Business Informatics 
-Specialization: Big Data in Business 
-Degree: Master's
+## Education
+- M.S., IT in business | University of Economics in Wrocław (_September 2023_)
+- B.S., Industrial IT | Wrocław University of Science and Technology (_January 2021_)
 
-**Wrocław University of Science and Technology**
-Field of Study: Industrial Informatics 
-Specialization: Intelligent Industrial Systems
-Degree: Engineer's
+## Work Experience
 
-### Work Experience
+**IT Specialist at Gerresheimer Boleslawiec S.A (_Aug. 2022 – Aug. 2023_)**
 
-IT Specialist 
+I provided support to the IT department in carrying out operational activities, with a focus on:
+- Preparing computer equipment for new employees, providing them with necessary tools for effective task execution.
+- Maintaining company employees' computer hardware.
+- Installing and configuring MDM system on mobile devices, enabling efficient management of them.
+- Exchanging and storing LTO tapes.
+
+**IT Manager at nFinity.pl Sp. z o.o. (_Dec. 2021 – Mar. 2022_)**
+
+I have served in a support role in projects, focusing on the following tasks: 
+- Preparing detailed reports from functional tests, providing valuable information about software performance and identifying potential areas for improvement.
+- Creating and documenting projects, ensuring clear and consistent documentation for the project team and other stakeholders. 
+- Creating interactive navigation dashboards in Power BI that provided real-time information and key performance indicators (KPIs), enabling data-driven decision-making and effective project progress tracking. 
+- Developing the concept of portal functionality by analyzing user requirements and creating intuitive solutions that meet their needs. 
+- Creating a schedule for project stages, meticulously planning and organizing work to ensure timely achievement of project goals. 
+
+**Process Engineer at Gerresheimer Boleslawiec S.A (_Jul. 2021 – Sep. 2021_)**
+- Developing maintenance and operation standards for KV and GS machines, aiming to ensure efficient and safe functioning of these devices. My responsibilities included analyzing processes, identifying areas foroptimization, and developing guidelines and procedures that ensured high-quality work and minimized the risk of failures.
+- Creating a Lockout-Tagout (LOTO) system for machines and equipment, ensuring safe execution of service, maintenance, and repair work. 
+
+**IT Specialist at Gerresheimer Boleslawiec S.A (_Aug. 2020 – Aug. 2020_)**
+
+- Preparing computer equipment for new employees, providing them with necessary tools for effective task execution.
+- Maintaining company employees' computer hardware.
 
 ### Projects
