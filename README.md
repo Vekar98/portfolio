@@ -36,6 +36,14 @@ I have served in a support role in projects, focusing on the following tasks:
 - Maintaining company employees' computer hardware.
 
 ## Projects
+### House Price Prediction using FastAPI
+[To view code look here!](/Projects/Perth%20House%20Price%20Prediction%20-%20FastAPI)\
+[Picture 1](/Projects/Perth%20House%20Price%20Prediction%20-%20FastAPI/image_1.png) | 
+[Picture 2](/Projects/Perth%20House%20Price%20Prediction%20-%20FastAPI/image_2.png) |
+[Picture 3](/Projects/Perth%20House%20Price%20Prediction%20-%20FastAPI/image_3.png)
+
+This project is build on the data from this [Kaggle link](https://www.kaggle.com/datasets/syuzai/perth-house-prices/data)
+
 ### Machine Learning Methods for Predicting Loan Repayment in Leasing Agreements
 
 [To view project click here!](/Projects/Predicting%20Loan%20Repayment%20in%20Leasing%20Agreements.ipynb)
